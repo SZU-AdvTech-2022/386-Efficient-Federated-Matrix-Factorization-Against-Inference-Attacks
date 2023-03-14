@@ -1,0 +1,9 @@
+@article{REPO-387,
+    author = "Chai, Di and Wang, Leye and Chen, Kai and Yang, Qiang",
+    journal = "ACM Transactions on Intelligent Systems and Technology (TIST)",
+    number = "4",
+    pages = "1--20",
+    title = "{Efficient Federated Matrix Factorization Against Inference Attacks}",
+    volume = "13",
+    year = "2022"
+}
