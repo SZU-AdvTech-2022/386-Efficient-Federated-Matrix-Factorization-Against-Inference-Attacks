@@ -1,4 +1,4 @@
-@article{REPO-387,
+@article{REPO-386,
     author = "Chai, Di and Wang, Leye and Chen, Kai and Yang, Qiang",
     journal = "ACM Transactions on Intelligent Systems and Technology (TIST)",
     number = "4",
